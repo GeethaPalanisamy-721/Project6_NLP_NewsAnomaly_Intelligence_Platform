@@ -1,0 +1,12 @@
+# Ignore Python cache directories everywhere
+**/__pycache__/
+**/*.py[cod]
+
+# Ignore evaluation plots
+data/evaluation/*.png
+
+# Ignore virtual environment folder
+.venv/
+
+
+
